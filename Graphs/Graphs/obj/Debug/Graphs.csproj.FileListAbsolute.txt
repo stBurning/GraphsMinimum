@@ -1,0 +1,7 @@
+C:\Users\Константин\source\repos\Graphs\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\Константин\source\repos\Graphs\Graphs\bin\Debug\Graphs.exe
+C:\Users\Константин\source\repos\Graphs\Graphs\bin\Debug\Graphs.pdb
+C:\Users\Константин\source\repos\Graphs\Graphs\obj\Debug\Graphs.csprojAssemblyReference.cache
+C:\Users\Константин\source\repos\Graphs\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\Graphs\Graphs\obj\Debug\Graphs.exe
+C:\Users\Константин\source\repos\Graphs\Graphs\obj\Debug\Graphs.pdb
